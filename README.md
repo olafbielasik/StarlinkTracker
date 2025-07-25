@@ -1,6 +1,9 @@
 # StarlinkTracker
 An interactive 3D visualization of Starlink satellites orbiting Earth, based on real-time TLE data
 
+<p align="center">
+  <img src="starlink.png" alt="StarlinkTracker">
+</p>
 
 ## Features
 
@@ -8,6 +11,10 @@ An interactive 3D visualization of Starlink satellites orbiting Earth, based on 
 - Earth globe with zoom & rotate (mouse-controlled)
 - Tooltip showing satellite name and coordinates
 - Altitude slider to filter satellites by orbital height
+
+<p align="center">
+  <img src="starlinkss.png" alt="StarlinkTrackerS">
+</p>
 
 ## Technologies Used
 
