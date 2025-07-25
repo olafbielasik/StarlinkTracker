@@ -9,9 +9,9 @@ An interactive 3D visualization of Starlink satellites orbiting Earth, based on 
 - Tooltip showing satellite name and coordinates
 - Altitude slider to filter satellites by orbital height
 
-## 🛠Technologies Used
+## Technologies Used
 
 - **React** – component structure and interactivity  
-- **Three.js** – WebGL 3D globe rendering  
+- **Three.js** – 3D globe rendering  
 - **satellite.js** – orbital mechanics & TLE parsing  
 - **Vite** – fast development server and bundler
