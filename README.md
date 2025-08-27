@@ -15,10 +15,3 @@
 <p align="center">
   <img src="starlinkss.png" alt="StarlinkTrackerS">
 </p>
-
-## Technologies Used
-
-- **React** – component structure and interactivity  
-- **Three.js** – 3D globe rendering  
-- **satellite.js** – orbital mechanics & TLE parsing  
-- **Vite** – fast development server and bundler
